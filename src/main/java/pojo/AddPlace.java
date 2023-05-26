@@ -60,5 +60,8 @@ public class AddPlace {
 	public void setTypes(List<String> types) {
 		this.types = types;
 	}
+	public void setType(List<String> types) {
+		this.types = types;
+	}
 
 }
